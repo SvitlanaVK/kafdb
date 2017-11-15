@@ -1,0 +1,34 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\kusrovikdb\bin\Debug\kusrovikdb.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\kusrovikdb\bin\Debug\kusrovikdb.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\kusrovikdb\obj\x86\Debug\kusrovikdb.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\kusrovikdb\obj\x86\Debug\kusrovikdb.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\kusrovikdb\obj\x86\Debug\kusrovikdb.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\kusrovikdb\obj\x86\Debug\kusrovikdb.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\kusrovikdb\obj\x86\Debug\kusrovikdb.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\kusrovikdb\obj\x86\Debug\kusrovikdb.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\bin\Debug\kusrovikdb.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\bin\Debug\kusrovikdb.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\bin\Debug\kusrovikdb.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.Form3.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.Form4.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Debug\kusrovikdb.Form5.resources
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\bin\Debug\kusrovikdb.exe.config
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.exe
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.pdb
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\bin\Debug\kusrovikdb.exe
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\bin\Debug\kusrovikdb.pdb
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.csprojResolveAssemblyReference.cache
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.Form1.resources
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.Form2.resources
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.Form3.resources
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.Form4.resources
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.Form5.resources
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.Properties.Resources.resources
+D:\Работа\БД\Авилов\kusrovikdb-2014-09-19\kusrovikdb\obj\x86\Debug\kusrovikdb.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\bin\Release\kusrovikdb.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\bin\Release\kusrovikdb.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\bin\Release\kusrovikdb.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.Form3.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.Form4.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.Form5.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\kusrovikdb\kusrovikdb\obj\x86\Release\kusrovikdb.pdb
