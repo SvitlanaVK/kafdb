@@ -1,4 +1,4 @@
-п»їusing System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Configuration;
-
+//SSS
+//DDD
 namespace kusrovikdb
 {
     public partial class Form2 : Form
@@ -88,27 +89,27 @@ namespace kusrovikdb
 
                 switch (Work)
                 {
-                    case "РљСѓСЂСЃРѕРІР°СЏ":
+                    case "Курсовая":
                         PlanHours = "dbo.HNorms(1,"+GroupID+")";
                         break;
-                    case "Р­РєР·Р°РјРµРЅ":
+                    case "Экзамен":
                         PlanHours = "dbo.HNorms(2," + GroupID + ")";
                         break;
-                    case "Р”РёРїР»РѕРј":
+                    case "Диплом":
                         PlanHours = "dbo.HNorms(3," + GroupID + ")";
                         break;
-                    case "Р—Р°С‡РµС‚":
+                    case "Зачет":
                         PlanHours = "dbo.HNorms(4," + GroupID + ")";
                         break;
-                    case "Р›РµРєС†РёРё":
+                    case "Лекции":
                         int Lect = int.Parse(semestr.Tables[0].Rows[0]["Lect"].ToString().Trim());
                         PlanHours = Lect.ToString();
                         break;
-                    case "РџСЂР°РєС‚РёРєРё":
+                    case "Практики":
                         int Prac = int.Parse(semestr.Tables[0].Rows[0]["Prac"].ToString().Trim());
                         PlanHours = Prac.ToString();
                         break;
-                    case "Р›Р°Р±С‹":
+                    case "Лабы":
                         string buf = semestr.Tables[0].Rows[0]["Lab"].ToString().Trim();
                         int Lab = 0;
                         if (!string.IsNullOrWhiteSpace(buf))
@@ -122,7 +123,7 @@ namespace kusrovikdb
                 VALUES("+SubjectID+", "+GroupID+", "+ WorkID+", "+PlanHours+", "+TeacherID+", "+ID+")", cn);
                 cm.ExecuteNonQuery();
 
-                //MessageBox.Show("Р”РѕР±Р°РІР»РµРЅРёРµ РїСЂРѕС€Р»Рѕ СѓСЃРїРµС€РЅРѕ", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                //MessageBox.Show("Добавление прошло успешно", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Form f = Application.OpenForms["Form3"];
                 if (f != null)
                 {
@@ -138,10 +139,10 @@ namespace kusrovikdb
             }
             catch(Exception ex)
             {
-               // MessageBox.Show("РћС€РёР±РєР° РІ Р·Р°РїРѕР»РЅРµРЅРёРё РґР°РЅРЅС‹С…, РїСЂРѕРІРµСЂСЊС‚Рµ РїСЂР°РІРёР»СЊРЅРѕСЃС‚СЊ Р·Р°РїРѕР»РЅРµРЅРёСЏ РІСЃРµС… РїРѕР»РµР№");
+               // MessageBox.Show("Ошибка в заполнении данных, проверьте правильность заполнения всех полей");
                 if (ex.GetType().Name == "IndexOutOfRangeException")
                 {
-                    MessageBox.Show("РћС€РёР±РєР°. РЎРєРѕСЂРµРµ РІСЃРµРіРѕ РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚ Р·Р°РїРёСЃРё РІ С‚Р°Р±Р»РёС†Рµ РїР»Р°РЅР° СЃРµРјРµСЃС‚СЂР° СЃ С‚Р°РєРёРј РїСЂРµРґРјРµС‚РѕРј Рё СЃРµРјРµСЃС‚СЂРѕРј");
+                    MessageBox.Show("Ошибка. Скорее всего не существует записи в таблице плана семестра с таким предметом и семестром");
                 } else
                     MessageBox.Show(ex.Message);
             }
