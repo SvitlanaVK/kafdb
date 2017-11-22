@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Configuration;
-
+//AAAAA
 namespace kusrovikdb
 {
     public partial class Form3 : Form
